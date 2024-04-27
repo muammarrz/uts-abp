@@ -1,0 +1,2 @@
+<img src="<?php echo e(asset('img/Logo.png')); ?>" alt="Your Logo">
+<?php /**PATH H:\Kuliah\Semester 6\APLIKASI_BERBASIS_PLATFORM_IF-45-08_[TRK]\Tubes_1\JazzOrJas\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
